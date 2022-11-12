@@ -1,5 +1,4 @@
 class hero {
     public static void main(String[] args) {
-        System.out.println("Hello juvvi");
-    }
+        System.out.println("I Love U Juvvi");
 }
